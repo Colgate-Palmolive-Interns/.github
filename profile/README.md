@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="../colpal.png" alt="Colgate-Palmolive" width="80" align="right">
+  <img src="../colpal.png" alt="Colgate-Palmolive" width="75" align="right">
 </p>
 
 # Procurement Data Analysis – Automation & Development
