@@ -20,6 +20,7 @@ Within Procurement, us, as interns, **we support the area through quotation mana
 |---|---|
 | `.github` | Organization-wide configuration and this profile README |
 | `colpal-procurement-pmo` | Internal project management tool for the Procurement team |
+| `colpal-supplier-capabilities` | Internal mapping and analysis to track supplier capabilities |
 
 ## Requirements
 
